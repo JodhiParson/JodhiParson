@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
-- ⚡ Fun fact **Despite being 5'1, I regularly play volleyball at my local gym !**
+- ⚡ Fun fact **I regularly play volleyball at my university's gym !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
