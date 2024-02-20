@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **what I did in Japan over the summer!**
 
-- 📫 How to reach me **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
+- 📫 How to reach me: **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
 
-- 📄 Know about my experiences [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
+- 📄 Learn about my experiences ! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
 - ⚡ Fun fact **I regularly play volleyball at my university's gym !**
 
