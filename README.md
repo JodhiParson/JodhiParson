@@ -12,9 +12,9 @@
 
 - 📫 How to reach me: **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
 
-- 📄 Learn about my experiences ! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
+- 📄 Learn about my experiences! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
-- ⚡ Fun fact **I regularly play volleyball at my university's gym !**
+- ⚡ Fun fact: **I regularly play volleyball at my university's gym !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
