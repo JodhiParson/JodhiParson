@@ -1,5 +1,5 @@
 <h1 align="center">»»-————Hello World! I'm Jodhi————-««</h1>
-<h3 align="center">A passionate software developer @ UGA</h3>
+<h3 align="center">A full-stack software developer @ UGA</h3>
 <h5 align="center">I am open to any collaboration work or software development and research internships!</h3>
 </br>
 
