@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodhiparson&label=Profile%20views&color=0e75b6&style=flat" alt="jodhiparson" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase and other database management apps.**
+- 🌱 I’m currently learning **Node Red, PostreSQL, and Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://jodhiparson.github.io/Portfolio/](https://jodhiparson.github.io/Portfolio/)
 
-- 💬 Ask me about **what I did in Japan over the summer!**
+- 💬 Ask me about **the internship I've been working at over the summer!**
 
 - 📫 How to reach me **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
 
