@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodhiparson&label=Profile%20views&color=0e75b6&style=flat" alt="jodhiparson" /> </p>
 
-- 🌱 I’m currently learning **Node Red, PostgreSQL, and AWS.**
+- 🌱 I’m currently learning **Node Red, Terraform, PostgreSQL, and AWS.**
 
 - 👨‍💻 All of my projects are available at [https://jodhiparson.github.io/Portfolio/](https://jodhiparson.github.io/Portfolio/)
 
