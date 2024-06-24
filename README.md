@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
 
-- 📄 Know about my experiences [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
+- 📄 Check out my experience! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
 - ⚡ Fun fact **Despite being 5'1, I regularly play volleyball at my local gym !**
 
