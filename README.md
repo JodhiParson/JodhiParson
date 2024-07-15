@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodhiparson&label=Profile%20views&color=0e75b6&style=flat" alt="jodhiparson" /> </p>
 
-- 🌱 I’m currently learning **Node Red, Terraform, PostgreSQL, and AWS.**
+- 🌱 I’m currently learning **AWS, Terraform, and MySQL.**
 
 - 👨‍💻 All of my projects are available at [https://jodhiparson.github.io/Portfolio/](https://jodhiparson.github.io/Portfolio/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Check out my experience! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
-- ⚡ Fun fact **Despite being 5'1, I regularly play volleyball at my local gym !**
+- ⚡ Fun fact **Despite being 5'2, I regularly play volleyball at my local gym !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
