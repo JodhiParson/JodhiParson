@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Jodhi</h1>
-<h3 align="center">A fourth-year full-stack software developer @ UGA</h3>
+<h3 align="center">A full-stack software developer from UGA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodhiparson&label=Profile%20views&color=0e75b6&style=flat" alt="jodhiparson" /> </p>
 
