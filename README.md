@@ -13,7 +13,6 @@
 
 - 📄 Check out my experience! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
-- ⚡ Fun fact **I regularly play volleyball at my local gym !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
