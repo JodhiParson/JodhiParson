@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UNITY and C#.**
 
-- 👨‍💻 All of my projects are available at [https://jodhiparson.github.io/Portfolio/](https://jodhiparson.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jodhi.netlify.app/](https://jodhi.netlify.app/)
 
 - 💬 Ask me about **the internship I've been working at over the summer!**
 
