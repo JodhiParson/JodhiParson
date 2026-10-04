@@ -1,8 +1,6 @@
 <h1 align="center">Hello World! I'm Jodhi</h1>
 <h3 align="center">A full-stack software developer from UGA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jodhiparson&label=Profile%20views&color=0e75b6&style=flat" alt="jodhiparson" /> </p>
-
 - 🌱 I’m currently learning **UNITY and C#.**
 
 - 👨‍💻 All of my projects are available at [https://jodhiparson.github.io/Portfolio/](https://jodhiparson.github.io/Portfolio/)
