@@ -1,15 +1,11 @@
 <h1 align="center">Hello World! I'm Jodhi</h1>
 <h3 align="center">A full-stack software developer from UGA</h3>
 
-- 🌱 I’m currently learning **UNITY and C#.**
+- 🌱 Currently doing Computational Data Analytics for my Masters at the Georgia Institute of Technology!
 
-- 👨‍💻 All of my projects are available at [https://jodhi.netlify.app/](https://jodhi.netlify.app/)
-
-- 💬 Ask me about **the internship I've been working at over the summer!**
+- 👨‍💻 Portfolio: [https://jodhi.netlify.app/](https://jodhi.netlify.app/)
 
 - 📫 How to reach me **jodhiparson@yahoo.com; parsonjodhi@gmail.com**
-
-- 📄 Check out my experience! [https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf](https://jodhiparson.github.io/Portfolio/JodhiParsonCSResume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
